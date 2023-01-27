@@ -1,6 +1,6 @@
 # MyLoginApp
 
-Design de login simples para aplicativo Android
+Design de login simples para aplicativo Android.
 
 Conheça meu canal no youtube clicando no Link : https://www.youtube.com/@DevRenatoGarcia/featured
 
